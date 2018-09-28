@@ -1,0 +1,10 @@
+[package]
+name = "cargo-workspace"
+version = "0.1.0"
+authors = ["Takashi Ogura <t.ogura@gmail.com>"]
+
+[dependencies]
+structopt = "0.2"
+toml = "0.4"
+serde_derive = "*"
+serde = "*"
